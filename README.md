@@ -32,3 +32,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vartulChanana&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vartulChanana&theme=darkhub&no-frame=true&no-bg=true&margin-w=15)
+
