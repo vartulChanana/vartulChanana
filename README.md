@@ -36,15 +36,10 @@
 
 # 🏆 GitHub Trophies
 
-<!-- Safer trophy call with fewer categories to avoid rate limit -->
-![](https://github-profile-trophy.vercel.app/?username=vartulChanana&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&title=Commits,Repositories,Stars,Followers)
+<!-- Minimal version to avoid API failure -->
+![](https://github-profile-trophy.vercel.app/?username=vartulChanana&theme=darkhub&no-frame=true&no-bg=true&title=Commits,Repositories,Stars,Followers&margin-w=15)
 
-<!-- Optional: Add this version only if you have a GitHub token and are deploying it securely -->
-<!-- ![](https://github-profile-trophy.vercel.app/?username=vartulChanana&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&token=YOUR_GITHUB_TOKEN_HERE) -->
-
----
-
-# 📈 GitHub Activity Badges 
+<!-- Optional Fallback Badges -->
 ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/vartulChanana/vartulChanana)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/vartulChanana/vartulChanana)
 
