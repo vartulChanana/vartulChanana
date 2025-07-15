@@ -12,6 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vartul-chanana-77a283221)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vartulchanana@gmail.com)
 
+---
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -24,6 +25,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Riot Games](https://img.shields.io/badge/RiotGames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
 
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vartulChanana&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -31,9 +33,21 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vartulChanana&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vartulChanana&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vartulChanana&theme=darkhub&no-frame=true&no-bg=true&margin-w=15)
 
+<!-- Safer trophy call with fewer categories to avoid rate limit -->
+![](https://github-profile-trophy.vercel.app/?username=vartulChanana&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&title=Commits,Repositories,Stars,Followers)
+
+<!-- Optional: Add this version only if you have a GitHub token and are deploying it securely -->
+<!-- ![](https://github-profile-trophy.vercel.app/?username=vartulChanana&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&token=YOUR_GITHUB_TOKEN_HERE) -->
+
+---
+
+# 📈 GitHub Activity Badges 
+![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/vartulChanana/vartulChanana)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/vartulChanana/vartulChanana)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=vartulChanana&icon=0&color=0)](https://visitcount.itsvg.in)
